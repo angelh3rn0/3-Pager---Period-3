@@ -1,0 +1,56 @@
+header {
+	background-color: #ff5500;
+	height: 250px;
+}
+
+nav {
+	position: relative;
+	top: 50px;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	text-decoration: none;
+	background-color: blue;
+	color: white;
+	padding: 10px 25px 10px 25px;
+	border-radius: 7px 7px 0px 0px;
+}
+
+h1 {
+	color: #ff5500;
+}
+main h3 {
+	color: #ff5500;
+}
+
+main p {
+	color: #0000ff;
+}
+
+.button {
+	text-decoration: none;
+	background-color: #ff5500;
+	color: #ffffff;
+	padding: 10px 25px 10px 25px;
+	border-radius: 8px;
+}
+
+.button:hover {
+	background-color: #ffffff;
+	color: #ff5500;
+}
+
+footer {
+	background-color: #ff5500;
+	padding: 25px;
+	margin-top: 18px;
+}
+
+footer p {
+	color: white;
+	text-align: center;
+}
